@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:11:5-26:19
+	android:label
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.mycompany.myapp13.MainActivity
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.mycompany.myapp13.PhotoShow
+ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:25:3-40
+	android:name
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml:25:13-38
+uses-sdk
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiyunan/Desktop/MyApp13/app/src/main/AndroidManifest.xml

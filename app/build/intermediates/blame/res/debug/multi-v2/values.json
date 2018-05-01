@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shiyunan/Desktop/MyApp13/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/shiyunan/Desktop/MyApp13/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,101",
+                        "endColumns": "44,52",
+                        "endOffsets": "96,149"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,52",
+                        "endOffsets": "95,148"
+                    }
+                },
+                {
+                    "source": "/Users/shiyunan/Desktop/MyApp13/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "153",
+                        "endLines": "5",
+                        "endColumns": "9",
+                        "endOffsets": "227"
+                    }
+                }
+            ]
+        }
+    ]
+}
